@@ -1,0 +1,1 @@
+﻿Write-Host 'My server hostname is:' $env:computername | Select-Object
